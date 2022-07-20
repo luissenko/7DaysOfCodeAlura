@@ -1,0 +1,35 @@
+html {
+  font-size: 18px;
+}
+
+body {
+    background-image: linear-gradient(to left, #09ebba, #fff);
+  }
+
+  main {
+    position: relative;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: "Brush Script MT", cursive;
+    font-size: 3rem; 
+  }
+
+  .welcome {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  .btn {
+    background-color: #8915e8;
+    border-radius: 15%;
+    border: 1px solid blue;
+    font-size: 1rem;
+    width: 10%;
+    height: 30px;
+    margin: auto;
+    padding: 5px;
+    display: block;
+  }
